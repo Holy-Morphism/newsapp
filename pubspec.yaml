@@ -55,6 +55,8 @@ dependencies:
 
   #cached images
   cached_network_image: ^3.2.3
+  google_fonts: ^5.1.0
+  dio: ^4.0.6
 
 dev_dependencies:
   flutter_test:
